@@ -1,0 +1,22 @@
+# WordPress core
+wp-admin/
+wp-includes/
+
+# Uploads
+wp-content/uploads/
+
+# Cache
+wp-content/cache/
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# XAMPP
+xampp/
+
+# OS
+.DS_Store
+Thumbs.db
